@@ -197,3 +197,11 @@ a{
 .overview-section-item:hover .btn-outline-sm{
     border-color: var(--white-color);
 }
+
+.btn-primary{
+    background-color: #6C757D;
+    outline: none;
+    border: 0px;
+    box-shadow: none;
+    margin-right: 50px;
+}
